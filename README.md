@@ -4,7 +4,7 @@ An EDA project on whether life expectancy alcohol and income are correlated.
 
 Contains:
 Data set folder,
-Jupyter Notebook with data exploration and analysis
+Jupyter Notebook with data exploration and analysis and
 Presentetion
 
 Team Members: Michael Kontis and Panagiotis Apostolou
